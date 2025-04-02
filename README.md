@@ -1,7 +1,4 @@
-
-The objetive of this document is to speak a little about me and what am i doing rightnow (thats a informal document)
-
-
+Hi There !!!
 
 About me:
   Hi, my name is Luiz Santana, my major is Analysis and development of systems.

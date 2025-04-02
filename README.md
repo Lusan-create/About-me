@@ -13,9 +13,5 @@ About the major:
 We have some big projects every period, using what we learn in every discpline we took during the period. Its a very interesting way to apply everything
 we learnd and to really to fix everything in our heads
 
-i Still am in the first period of my major.
+I still in the first period of my major.
 
-
-
-
-I will update this "AboutMe" further when i find more things to put in here.
